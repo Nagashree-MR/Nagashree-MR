@@ -53,5 +53,5 @@ Flask app with user registration, login, password validation, and a protected pa
 ---
 
 ## 📫 Get in Touch
-- [LinkedIn](www.linkedin.com/in/nagashree-morubagal-raghavendra)
+- [LinkedIn](https://www.linkedin.com/in/nagashree-morubagal-raghavendra)
 - Email: nagashreemr11@gmail.com
