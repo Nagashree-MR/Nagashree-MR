@@ -29,7 +29,7 @@ Analyzed adoption trends at Austin Animal Center to identify factors influencing
 ### 🔹 [Customer Call Center Performance Dashboard](https://github.com/Nagashree-MR/Customer-call-analysis)
 Developed an interactive **Power BI dashboard** to monitor over 10,000 call center records. Tracked KPIs like AHT, FCR, agent productivity, and call volumes.
 
-**Tech Stack:** Power BI, Python, SQL  
+**Tech Stack:** Power BI, Python, SQL
 **Highlights:** Time-series analysis, business reporting, stakeholder presentation
 
 ---
