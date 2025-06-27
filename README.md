@@ -46,7 +46,6 @@ Flask app with user registration, login, password validation, and a protected pa
 A full-stack web application built with Flask for analyzing data from the Austin Animal Center. Features a secure, interactive dashboard with dynamic charts and an AI-powered chatbot that understands natural language queries.
 
 **Tech Stack:** Python, Flask, SQLAlchemy, PostgreSQL, JavaScript, Chart.js, HTML/CSS, Gunicorn
-
 **Highlights:** End-to-End Development, Secure User Authentication, Natural Language Processing, Production Deployment
 
 ---
