@@ -29,7 +29,7 @@ Analyzed adoption trends at Austin Animal Center to identify factors influencing
 ### 🔹 [Customer Call Center Performance Dashboard](https://github.com/Nagashree-MR/Customer-call-analysis)
 Developed an interactive **Power BI dashboard** to monitor over 10,000 call center records. Tracked KPIs like AHT, FCR, agent productivity, and call volumes.
 
-**Tech Stack:** Power BI, Python, SQL
+**Tech Stack:** Power BI, Python, SQL  
 **Highlights:** Time-series analysis, business reporting, stakeholder presentation
 
 ---
@@ -45,7 +45,7 @@ Flask app with user registration, login, password validation, and a protected pa
 ### 🔹 [Animal analytics dashboard and chatbot](https://github.com/Nagashree-MR/Animal-shelter-Chatbot)
 A full-stack web application built with Flask for analyzing data from the Austin Animal Center. Features a secure, interactive dashboard with dynamic charts and an AI-powered chatbot that understands natural language queries.
 
-**Tech Stack:** Python, Flask, SQLAlchemy, PostgreSQL, JavaScript, Chart.js, HTML/CSS, Gunicorn
+**Tech Stack:** Python, Flask, SQLAlchemy, PostgreSQL, JavaScript, Chart.js, HTML/CSS, Gunicorn  
 **Highlights:** End-to-End Development, Secure User Authentication, Natural Language Processing, Production Deployment
 
 ---
